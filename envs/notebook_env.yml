@@ -1,0 +1,9 @@
+name: chipseq_project2
+channels:
+- conda-forge
+- bioconda
+
+dependencies:
+- ipykernel=6.29.5
+- pandas=2.2.2
+- matplotlib=3.10.1
